@@ -8895,7 +8895,7 @@
                 "ext-dom": "*",
                 "ext-tokenizer": "*",
                 "ext-xmlwriter": "*",
-                "php": "^7.2 || ^8.0"
+                "php": "^7.2 || 8.0"
             },
             "type": "library",
             "autoload": {
