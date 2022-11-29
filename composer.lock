@@ -8982,7 +8982,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.4.26"
+        "php": "^8.0.22"
    },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
